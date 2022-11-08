@@ -53,7 +53,7 @@ export function poginationFilter(genre, year, sort) {
     addHiddenPagination();
   }
 }
-
+// ===================
 // для пошуку
 export function poginationSearch(movie) {
   // пагінація по пошуку
